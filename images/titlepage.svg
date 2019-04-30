@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1400 520">
-	<title>The titlepage for the Standard Ebooks edition of The Moon and Sixpence, by William Somerset Maugham</title>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1400 440">
+	<title>The titlepage for the Standard Ebooks edition of The Moon and Sixpence, by W. Somerset Maugham</title>
 	<style type="text/css">
 		text{
 			font-family: League Spartan;
@@ -18,6 +18,5 @@
 	</style>
 	<text class="title" x="700" y="130">THE</text>
 	<text class="title" x="700" y="230">MOON AND SIXPENCE</text>
-	<text class="author" x="700" y="390">WILLIAM</text>
-	<text class="author" x="700" y="470">SOMERSET MAUGHAM</text>
+	<text class="author" x="700" y="390">W. SOMERSET MAUGHAM</text>
 </svg>
