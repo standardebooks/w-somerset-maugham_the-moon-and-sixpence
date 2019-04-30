@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
-		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/william-somerset-maugham/the-moon-and-sixpence</dc:identifier>
+		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/w-somerset-maugham/the-moon-and-sixpence</dc:identifier>
 		<dc:date>1900-01-01T00:00:00Z</dc:date>
 		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
@@ -41,22 +41,23 @@
 		<dc:description id="description">London Stockbroker Charles Strickland abandons his family and travels to Paris to become a painter.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Written by William Somerset Maugham, &lt;i&gt;The Moon and Sixpence&lt;/i&gt; tells the story of English stockbroker Charles Strickland who travels to Paris to become a painter, abandoning both his wife and child to do so. First published in 1919 in the United Kingdom by Heinemann, the story is inspired by the life of the French artist Paul Gauguin. It is told in episodic form from a first-person perspective. The narrator, who came to know Strickland through his wife's literary parties, begins the story as Strickland leaves for Paris where his life becomes a stark contrast to the one he had in London. While he was once a well-off banker living a comfortable life, he must now sleep in cheap hotels while suffering both illness and hunger.&lt;/p&gt;&lt;p&gt;Maugham spent a year in Paris in 1904, which is when he first heard the story of French artist Paul Gaugin, the banker who left his family and profession to pursue his passion for art. He heard the story from others who had known and worked with Gaugin. Ten years later, in 1914, Maughin travelled to Tahiti where he met others who had known Gaugin during the artist’s time there. Inspired by the stories he heard, Maugham wrote &lt;i&gt;The Moon and Sixpence&lt;/i&gt;. Although based on the life of Paul Gaugin, the story is a work of fiction.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;The Moon and Sixpence&lt;/i&gt; tells the story of English stockbroker Charles Strickland who travels to Paris to become a painter, abandoning both his wife and child to do so. First published in 1919 in the United Kingdom by Heinemann, the story is inspired by the life of the French artist Paul Gauguin. It is told in episodic form from a first-person perspective. The narrator, who came to know Strickland through his wife’s literary parties, begins the story as Strickland leaves for Paris where his life becomes a stark contrast to the one he had in London. While he was once a well-off banker living a comfortable life, he must now sleep in cheap hotels while suffering both illness and hunger.&lt;/p&gt;&lt;p&gt;Maugham spent a year in Paris in 1904, which is when he first heard the story of French artist Paul Gaugin, the banker who left his family and profession to pursue his passion for art. He heard the story from others who had known and worked with Gaugin. Ten years later, in 1914, Maughin travelled to Tahiti where he met others who had known Gaugin during the artist’s time there. Inspired by the stories he heard, Maugham wrote &lt;i&gt;The Moon and Sixpence&lt;/i&gt;. Although based on the life of Paul Gaugin, the story is a work of fiction.&lt;/p&gt;
 		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
-		<dc:source>https://www.gutenberg.org/files/222/222-h/222-h.htm</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/222</dc:source>
 		<dc:source>https://archive.org/details/cu31924059126585</dc:source>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Moon_and_Sixpence</meta>
-		<meta property="se:url.vcs.github">https://github.com/standardebooks/william-somerset-maugham_the-moon-and-sixpence</meta>
+		<meta property="se:url.vcs.github">https://github.com/standardebooks/w-somerset-maugham_the-moon-and-sixpence</meta>
 		<dc:creator id="author">W. Somerset Maugham</dc:creator>
 		<meta property="file-as" refines="#author">Maugham, W. Somerset</meta>
 		<meta property="se:name.person.full-name" refines="#author">William Somerset Maugham</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/William_Somerset_Maugham</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">https://id.loc.gov/authorities/names/n79036830</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
+		<meta property="role" refines="#author" scheme="marc:relators">ann</meta>
 		<dc:contributor id="artist">Frédéric Bazille</dc:contributor>
 		<meta property="file-as" refines="#artist">Bazille, Frédéric</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://nn.wikipedia.org/wiki/Fr%C3%A9d%C3%A9ric_Bazille</meta>
@@ -213,5 +214,4 @@
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
 	</spine>
-
 </package>
