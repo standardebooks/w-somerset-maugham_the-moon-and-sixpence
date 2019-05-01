@@ -1,6 +1,6 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
-q {
+.letter{
 	font-style: italic;
 }
