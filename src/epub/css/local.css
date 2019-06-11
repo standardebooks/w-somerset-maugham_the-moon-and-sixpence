@@ -4,3 +4,17 @@
 .letter{
 	font-style: italic;
 }
+
+footer{
+	margin-top: 1em;
+	text-align: right;
+}
+
+[epub|type~="z3998:salutation"],
+.signature{
+	font-variant: small-caps;
+}
+
+[epub|type~="z3998:salutation"] + p{
+	text-indent: 0;
+}
