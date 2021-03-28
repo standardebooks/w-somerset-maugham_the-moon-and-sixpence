@@ -58,13 +58,13 @@
 		<meta property="file-as" refines="#author">Maugham, W. Somerset</meta>
 		<meta property="se:name.person.full-name" refines="#author">William Somerset Maugham</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/William_Somerset_Maugham</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">https://id.loc.gov/authorities/names/n79036830</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79036830</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<meta property="se:role" refines="#author" scheme="marc:relators">ann</meta>
 		<dc:contributor id="artist">Frédéric Bazille</dc:contributor>
 		<meta property="file-as" refines="#artist">Bazille, Frédéric</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://nn.wikipedia.org/wiki/Fr%C3%A9d%C3%A9ric_Bazille</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">https://id.loc.gov/authorities/names/n82159085</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n82159085</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Charles Keller</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Keller, Charles</meta>
